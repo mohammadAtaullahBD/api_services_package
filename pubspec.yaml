@@ -1,7 +1,7 @@
 name: restapi_services
 description: Easy to use http services
 version: 1.0.0
-repository: https://github.com/mohammadAtaullahBD/api_services_package.git
+repository: https://github.com/mohammadAtaullahBD/restapi_services_package.git
 
 environment:
   sdk: ^3.3.0
