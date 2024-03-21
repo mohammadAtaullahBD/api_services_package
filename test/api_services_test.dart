@@ -1,4 +1,4 @@
-import 'package:api_services/api_services.dart';
+import 'package:restapi/api_services.dart';
 import 'package:test/test.dart';
 
 void main() {
