@@ -1,7 +1,8 @@
 name: restapi_services
-description: Easy to use http services
-version: 1.0.2
+description: Easy to use http services. With this package, you can send Get, Post, Put and Delete request to any server.
+version: 1.0.4
 repository: https://github.com/mohammadAtaullahBD/restapi_services_package.git
+homepage: https://www.facebook.com/md.ataullah.bd
 
 environment:
   sdk: ^3.3.0
@@ -12,3 +13,8 @@ dependencies:
 dev_dependencies:
   lints: ^3.0.0
   test: ^1.24.0
+
+example:
+  name: Simple Example
+  description: An example of how to use the restapi_services package and send Get, Post, Put and Delete request to any server.
+  path: example/api_services_example.dart
